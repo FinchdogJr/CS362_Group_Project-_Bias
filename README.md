@@ -12,11 +12,9 @@ In machine learning, the data fed to an AI system matters more than most people 
 
 This project explores **three interconnected angles on AI bias:**
 
-### 📰 Historical Bias (presented by Lukas Finch)
+### 📰 Historical Bias (Lukas Finch)
 How real-world events become distorted in AI training data. When an event occurs, the volume of commentary, reaction, and opinion often dwarfs the factual reporting — meaning the AI learns from *who is loudest*, not necessarily *what is true*. The signal gets buried under the noise, and bias bakes into the model before anyone notices.
 
-### ♂♀ Gender Bias (presented by Anna Wahl)
-How AI systems trained on historically male-skewed data can produce outcomes that disadvantage women.
+###  (Anna Wahl)
 
-### 🔲 [Hannah's Topic] (presented by Hannah Shane)
-*[Add a short description of your angle here.]*
+### 🔲 [Hannah's Topic] (Hannah Shane)
