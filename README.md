@@ -13,8 +13,7 @@ In machine learning, the data fed to an AI system matters more than most people 
 This project explores **three interconnected angles on AI bias:**
 
 ### 📰 Historical Bias (Lukas Finch)
-How real-world events become distorted in AI training data. When an event occurs, the volume of commentary, reaction, and opinion often dwarfs the factual reporting — meaning the AI learns from *who is loudest*, not necessarily *what is true*. The signal gets buried under the noise, and bias bakes into the model before anyone notices.
 
 ###  (Anna Wahl)
 
-### 🔲 [Hannah's Topic] (Hannah Shane)
+### (Hannah Shane)
