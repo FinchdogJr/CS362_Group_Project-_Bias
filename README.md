@@ -16,4 +16,4 @@ This project explores **three interconnected angles on AI bias:**
 
 ###  (Anna Wahl)
 
-### (Hannah Shane)
+### Bias manifested into LLM's (Hannah Shane)
