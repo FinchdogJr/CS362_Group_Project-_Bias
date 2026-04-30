@@ -14,6 +14,6 @@ This project explores **three interconnected angles on AI bias:**
 
 ### 📰 Historical Bias (Lukas Finch)
 
-###  (Anna Wahl)
+###  Bias applied to Everyday Life(Anna Wahl)
 
 ### Bias manifested into LLM's (Hannah Shane)
